@@ -1,0 +1,61 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "testset.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "exportAsImage.useCurrentScale": true,
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#Background": {
+            "scaleInEditor": 1
+        },
+        "testset.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 463.33333333333337,
+                "y": 682
+            }
+        },
+        "testset.tmx#Background": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "testset.tmx#Collision tileset": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "testset.tmx#Tree Tiles": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "E:/DevProjects/ject_TTY_js_MappingSotfware/src/data",
+    "last.imagePath": "E:/DevProjects/ject_TTY_js_MappingSotfware/src/assets/img",
+    "map.height": 60,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 12,
+    "map.tileWidth": 12,
+    "map.width": 80,
+    "openFiles": [
+        "testset.tmx"
+    ],
+    "project": "test.tiled-project",
+    "recentFiles": [
+        "testset.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 12,
+        "width": 12
+    }
+}
